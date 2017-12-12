@@ -1,4 +1,6 @@
 # MST-StableMarriage-CoinChange
+This project was created for academic purposes on the subject of 'Algorithms' at the Aristotle University of Thessaloniki.
+
 In this project are implemented algorithms for the solution of the MST, Stable Marriage and Coin Change problems. In this implementation of the algorithms we create an ant colony of black and red ants.
 
 1. Each ants position is determined by (x,y) coordinates.
